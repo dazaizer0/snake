@@ -1,0 +1,176 @@
+[
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -g -fdiagnostics-color=always -o CMakeFiles\\snake.dir\\src\\main.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\src\\main.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\src\\main.c",
+  "output": "CMakeFiles\\snake.dir\\src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rcore.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rcore.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rmodels.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rmodels.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rshapes.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rshapes.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rtext.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rtext.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rtextures.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\rtextures.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\utils.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\utils.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\utils.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\utils.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src -isystem C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -fdiagnostics-color=always -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\raudio.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\raudio.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/mydat/Documents/_active_c/snake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-src/src/external/glfw/src -IC:/Users/mydat/Documents/_active_c/snake/cmake-build-debug/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "C:\\Users\\mydat\\Documents\\_active_c\\snake\\cmake-build-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+}
+]
