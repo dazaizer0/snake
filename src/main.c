@@ -27,7 +27,7 @@ int main(void)
         snake[i].position.y = 8;
     }
 
-    Vector2 collect = {5, 5};
+    Vector2 collect = {11, 3};
 
     int base_fps = 8;
     SetTargetFPS(base_fps);
@@ -93,11 +93,11 @@ int main(void)
 
         for (int i = 1; i < snake_length; i++)
         {
-            if (snake[0].position.x == snake[i].position.x && snake[0].position.y == snake[i].position.y)
+            if (snake[0].position.x == snake[i].position.x && snake[0].position.y == snake[i].position.y || IsKeyDown(KEY_R))
             {
                 snake_length = 1;
-                snake[0].position.x = 256;
-                snake[0].position.y = 256;
+                snake[0].position.x = 8;
+                snake[0].position.y = 8;
                 started = false;
             }
         }
@@ -149,4 +149,3 @@ int main(void)
 
     return 0;
 }
-
