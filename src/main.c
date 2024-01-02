@@ -115,13 +115,13 @@ int main(void)
                     SCREEN_HEIGHT / GRID_SIZE
             };
 
-            if (i == 0)
+            if (i % 2 == 1)
             {
-                DrawRectangleRec(rect, DARKPURPLE);
+                DrawRectangleRec(rect, PURPLE);
             }
             else
             {
-                DrawRectangleRec(rect, PURPLE);
+                DrawRectangleRec(rect, DARKPURPLE);
             }
         }
 
